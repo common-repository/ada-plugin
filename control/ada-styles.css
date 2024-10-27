@@ -1,0 +1,62 @@
+h3.ada-admin{font: italic 20px georgia;}
+h4.ada-admin{font: bold italic 15px georgia;background:#f7f7f7;padding:4px}
+p.ada-admin{font: italic 16px georgia }
+span.ada-admin{background:#fff;font-family:courier;padding:2px; font-weight: bold }
+.ada-admin ul li{list-style:disc;list-style-position:inside;margin-left:20px;}
+.ada-admin h3{ font:normal 20px sans-serif;border-bottom:3px solid #CBE590;margin:30px 0 0px 0;padding:5px;color:#666;letter-spacing:-1px  }
+.special {font-weight:bold;background:#fff;padding:4px ;border:1px dashed #ccc;}
+
+
+#animal-info, #contact-info, #lost-pet, #control-pet{
+ background: url(bk.jpg);
+}
+
+#animal-info textarea, #contact-info textarea, #lost-pet textarea{
+ height:100px
+}
+#animal-info th, #contact-info th, #lost-pet th {
+ font-weight:bold
+}
+#animal-info select#status {
+ background:#eee
+
+}
+
+#control-pet th{
+ width:30%
+}
+
+#lost-pet th{
+ width:20%
+}
+
+/* site form styles */
+
+#ada-login {  /* login user*/
+
+}
+
+#ada-form { /*add pet form*/
+ clear:both
+}
+
+#ada-form fieldset{
+ border:1px solid #eee; padding:20px;margin:0 0 20px 0
+}
+
+#ada-form input[type="text"], textarea {
+	border: 1px solid #ccc; padding:5px;
+  width:95%;clear:both
+}
+
+#ada-form label{
+ margin:4px 4px 0px 0;font-weight:bold
+}
+
+
+#ada-form .field-note { /* notes about fields*/
+ font:normal 12px arial;margin-top:1px;color:#999;
+}
+
+
+

@@ -1,0 +1,148 @@
+/* Thumb Tags*/
+
+.tag-adopt {background: url(tag-adopt.png)no-repeat;width:120px; height:50px;color:#444;display:table;float:right;font:italic normal 18px georgia;margin:100px 0 0 -10px;padding:8px 28px 20px 40px;position:absolute;text-transform:capitalize;z-index:1000;}
+.tag-adopt a{color:#CC3300;text-decoration:none;}
+
+.tag-adopted {background: url(tag-adopted.png)no-repeat;width:120px; height:50px;color:#444;display:table;float:right;font:italic normal 18px georgia;margin:100px 0 0 -10px;padding:8px 28px 20px 40px;position:absolute;text-transform:capitalize;z-index:1000;}
+.tag-adopted a{color:#CC3300;text-decoration:none;}
+
+.tag-lost {background: url(tag-lost.png)no-repeat;width:120px; height:50px;color:#444;display:table;float:right;font:italic normal 18px georgia;margin:100px 0 0 -10px;padding:8px 28px 20px 40px;position:absolute;text-transform:capitalize;z-index:1000;}
+.tag-lost a{color:#FF0000;text-decoration:none;}
+
+.tag-found {background: url(tag-found.png)no-repeat;width:120px; height:50px;color:#444;display:table;float:right;font:italic normal 18px georgia;margin:100px 0 0 -10px;padding:8px 28px 20px 40px;position:absolute;text-transform:capitalize;z-index:1000;}
+.tag-found a{color:#FF0000;text-decoration:none;}
+
+.tag-solved {background: url(tag-solved.png)no-repeat;width:120px; height:50px;color:#99CC33;display:table;float:right;font:italic normal 18px georgia;margin:100px 0 0 -10px;padding:8px 28px 20px 40px;position:absolute;text-transform:capitalize;z-index:1000;}
+.tag-solved a{color:#339933;text-decoration:none;}
+
+/*Mini-tags*/
+
+.icon-adopt {background:url(icon-adopt.png)no-repeat right;padding-right:18px;font-weight:bold;color:#CC3300}
+.icon-adopted {background:url(icon-adopted.png)no-repeat right;padding-right:18px;font-weight:bold;color:#CC3300}
+
+.icon-lost {background:url(icon-lost.png)no-repeat right;padding-right:18px;font-weight:bold;color:#FF0000}
+.icon-found {background:url(icon-found.png)no-repeat right;padding-right:18px;font-weight:bold;color:#0099CC}
+.icon-solved {background:url(icon-solved.png)no-repeat right;padding-right:18px;font-weight:bold;color:#339933}
+
+/* Data display in single*/
+.lostinfo{ display:table;clear:both;background:#fff;padding:10px; font-size: 12px;}
+.petinfo{display:table;clear:both;background:#fff;padding:10px 0 10px 0; font-size: 12px; }
+
+/* Thumb Styles */
+.picture-pet{-moz-box-shadow:0px 2px 10px rgba(10,2,0,0.2);float:left;margin:0 10px 10px 0;background:#fff url(thumb.png)no-repeat 50% 50%;;width:150px;height:150px;border:5px solid #fff;overflow:hidden}
+.picture-lost{-moz-box-shadow:0px 2px 10px rgba(10,2,0,0.2);float:left;margin:0 10px 10px 0;background:#fff url(thumb.png)no-repeat 50% 50%;;width:300px;height:300px;border:5px solid #fff; overflow:hidden}
+.ada-wanted{-moz-box-shadow:0px 2px 10px rgba(10,2,0,0.2);float:left;margin:0 10px 10px 0;background:#fff}
+
+/*wrappers*/
+
+.ada-widget{-moz-box-shadow:0px 2px 10px rgba(10,2,0,0.2);margin:0 auto 10px auto; width:170px; height:200px;background:#fff}
+
+.ada-wanted-wrap-widget{margin:10px;float:left;width:150px;height:150px;overflow:hidden;display:block;background: url(thumb.png) no-repeat 50% 50%}
+
+.picture-pet-widget{margin:0 auto;-moz-box-shadow:0px 2px 10px rgba(10,2,0,0.2);background:#fff url(thumb.png)no-repeat 50% 50%;;width:150px;height:150px;border:8px solid #fff;}
+
+.ada-wanted-wrap{ width:150px;height:150px;overflow:hidden;clear:both; display:block ;background:#fff url(thumb.png)no-repeat 50% 50%;margin:8px}
+
+.ada-w{clear:both;display:block; width:150px; text-align: center;font-weight:bold;margin:0 8px 8px 8px}
+
+
+/*forms*/
+
+#ada_search_submit, .ada_btn{
+ background:#f7f7f7 url(btn.png); border:1px solid #ccc;padding:5px;
+ border-radius:3px; 	-moz-border-radius:3px;
+ -moz-box-shadow:0px 0px 5px rgba(10,2,0,0.1);
+}
+
+
+#ada_search_submit:hover, .ada_btn:hover{
+ border:1px solid #BBBBBB
+}
+
+
+#ada_search_submit:active, .ada_btn:active{
+  -moz-box-shadow:0px 0px 0px rgba(10,2,0,0.2)
+}
+
+/*Misc*/
+.left-data, .right-data{float:left; list-style-type:none;}
+.clear{clear:both;}
+.ada-feed ul li{ list-style:none; padding-left:18px;background: url(rss.png) no-repeat left;}
+
+/*Pet Widget*/
+
+.ada-rss{
+ font-size: 11px;margin:10px 0 20px 0;line-height:15px;
+ font-weight: bold
+}
+
+p.ada-rss img{
+float:left;
+}
+
+
+.ada-widget-container h2 {margin:0 0 20px 0}
+
+.ada-widget-container ul li{list-style:none;}
+
+ul.pet-list{
+ margin:10px 0 0 0;padding:0; width:100%
+}
+
+
+ul.pet-data-list li, ul.pet-title li {
+ list-style:none;clear:right;
+ display:block
+}
+
+li.pet-title a{
+ font-weight: bold
+}
+
+
+li.divisor{
+ width:100%;height:1px;background:#eee ;
+ clear:both;margin:0 0 10px 0; display:block;
+}
+
+
+.ada-widget-container ul li img{
+  width:80px;height:80px;float:left
+}
+
+.ada-widget-container .ada-thumb{
+ float:left; width:80px;height:80px;background: url(thumb.png) 50% 50%;
+ border:1px solid #eee; padding:5px;margin:0 10px 10px 0; -moz-box-shadow:0px 0px 5px rgba(10,2,0,0.1);
+}
+
+.ada-widget-container .ada-title{
+ float:left;font-weight:bold;display:block;
+
+}
+
+
+.ada-widget-container .ada-btn a{
+ color:#fff;font:bold 11px arial; opacity:.5;filter:alpha(opacity=60);float:left;padding:4px 22px 4px 6px;
+  border-radius:3px; 	-moz-border-radius:3px;
+
+}
+.ada-widget-container .ada-btn a:hover{
+ text-decoration:none; opacity:100;filter:alpha(opacity=0);
+}
+
+/*Here you can add news classes for news statuses. Use status slug*/
+.ada-widget-container .ada-found a{
+ background:#333 url(icon-found2.png) no-repeat 96% 50%;
+}
+.ada-widget-container .ada-lost a{
+ background:#666 url(icon-lost2.png) no-repeat 96% 50%;
+}
+.ada-widget-container .ada-solved a{
+ background:#999 url(icon-solved2.png) no-repeat 96% 50%;
+}
+.ada-widget-container .ada-adopt a{
+ background:#333 url(icon-adopt2.png) no-repeat 96% 50%;
+}
+.ada-widget-container .ada-adopted a{
+ background:#666 url(icon-adopted2.png) no-repeat 96% 50%;
+}

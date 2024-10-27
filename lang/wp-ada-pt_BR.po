@@ -1,0 +1,1312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: control/ada_info.php:8
+#@ wp-ada
+msgid "About ADA Plugin"
+msgstr "Sobre o plugin ADA"
+
+#: control/ada_info.php:10
+#@ wp-ada
+msgid "ADA plugin was designed for small or local websites on animal adoption projects."
+msgstr "ADA foi criado para websites de projetos relacionado a adoção de animais."
+
+#: control/ada_info.php:11
+#@ wp-ada
+msgid "The ADA Plugin, offers a neat and easy way to keep an database with specific information for every pet for adoption or lost pet."
+msgstr "O plugin ADA oferece um modo organizado e fácil de manter um banco de dados de animais, com informações especiais para cada animal para adoção ou desaparecido."
+
+#: control/ada_info.php:13
+#@ wp-ada
+msgid "Every pet is a fully featured post - You have permalinks, comments, can add images, videos, everything you need."
+msgstr "Cada animal é um post completo - Você tem link permanente, comentários, pode adicionar imagens, vídeos, tudo o que for preciso."
+
+#: control/ada_info.php:14
+#@ wp-ada
+msgid "Special informations are kept on every post - Data such size, breed, colors etc are kept individually on every post."
+msgstr "Informações especiais são mantidas em cada post - Dados como porte, raça, cores etc são mantidos em cada post, individualmente."
+
+#: control/ada_info.php:15
+#@ wp-ada
+msgid "Widgets for display - There are four ADA widgets for display pets, with different options, a search form and a pet color tagcloud."
+msgstr "Widgets para exibição - Há quatro Widgets ADA para mostrar animais, formulário de procura para animais e nuvem tag de cores de animais."
+
+#: control/ada_info.php:16
+#@ wp-ada
+msgid "Works with any theme - Add the code for display data in pet posts or create a template file."
+msgstr "Funciona em qualquer tema - Adicione o código para mostrar os dados em posts sobre animais ou crie um arquivo de modelo."
+
+#: control/ada_info.php:17
+#@ wp-ada
+msgid "Output uses stylesheet - You don't need to dive into codes for customize colors and fonts, you change everything within the stylesheet."
+msgstr "Saída usa folha de estilos - Personalize cores, fontes etc através da folha de estilos."
+
+#: control/ada_info.php:18
+#@ wp-ada
+msgid "Export and Import - ADA Plugin uses post type, a WordPress feature, so you can export and import pets posts whenever you need"
+msgstr "Exporte e Importe - ADA usa tipos de posts, um recurso WordPres, então você pode exportar e importar posts sobre animais quando for preciso."
+
+#: control/ada_info.php:19
+#@ wp-ada
+msgid "Special info and thumbnail in feeds - Feeds from pet categories display thumbnails and the special info."
+msgstr "Dados especiais e miniaturas em feeds - Feeds de categorias de animais mostram miniaturas e dados especiais."
+
+#: control/ada_info.php:20
+#@ wp-ada
+msgid "Form for post or page - Let registered users post through your site by adding the form shortcode in post or page."
+msgstr "Formulário para posts ou páginas - Permita que seus visitantes cadastrem animais em seu site, ao adicionar o shortcode do formulário em uma página ou post."
+
+#: control/ada_info.php:25
+#@ wp-ada
+msgid "WordPress Features"
+msgstr "Recursos WordPress"
+
+#: control/ada_info.php:26
+#@ wp-ada
+msgid "ADA rely on native WordPress features such post types and taxonomies, the following info will be useful if you want style every context when displaying different statuses, pets etc by using theme files."
+msgstr "ADA funciona através de recursos nativos do WordPress, como tipos de post e taxonomias. As seguintes informações serão úteis caso precise personalizar o contexto como cada post é mostrado, através de arquivos de tema."
+
+#: control/ada_info.php:27
+#@ wp-ada
+msgid "Refer to <a href=\"http://codex.wordpress.org/Template_Hierarchy\">Template Hierarchy</a>"
+msgstr "Consulte a documentação <a href=\"http://codex.wordpress.org/pt-br:Hierarquia_de_Modelos\">Hierarquia de Modelos</a>"
+
+#: control/ada_info.php:29
+#@ wp-ada
+msgid "<strong>Please note:</strong> you must add the <a href=\"edit-tags.php?taxonomy=types&post_type=pet\">Types</a>, <a href=\"edit-tags.php?taxonomy=status&post_type=pet\">Status</a>, <a href=\"edit-tags.php?taxonomy=colors&post_type=pet\">Colors</a> and <a href=\"edit-tags.php?taxonomy=st&post_type=pet\">States</a> in order to make them available in editing screen."
+msgstr "<strong>Atenção:</strong> você deve adicionar <a href=\"edit-tags.php?taxonomy=types&post_type=pet\">Tipos</a>, <a href=\"edit-tags.php?taxonomy=status&post_type=pet\">Status</a>, <a href=\"edit-tags.php?taxonomy=colors&post_type=pet\">Cores</a> e <a href=\"edit-tags.php?taxonomy=st&post_type=pet\">Estados</a> para que fiquem disponíveis na área de edição."
+
+#: control/ada_info.php:31
+#@ wp-ada
+msgid "Taxonomies"
+msgstr "Taxonomias"
+
+#: control/ada_info.php:32
+#@ wp-ada
+msgid "ADA uses taxonomies for sort and organize pet post. The following taxonomies are created:"
+msgstr "ADA usa taxonomias para organizar posts. As seguinte taxonomias são criadas:"
+
+#: control/ada_info.php:34
+#@ wp-ada
+msgid "Types - Animal types. Example: Dogs, Cats, etc"
+msgstr "Tipos - Tipos de animas. Ex.: Cães, Gatos, etc"
+
+#: control/ada_info.php:34
+#: control/ada_info.php:35
+#: control/ada_info.php:36
+#: control/ada_info.php:37
+#@ wp-ada
+msgid "Theme file:"
+msgstr "Arquivo de tema:"
+
+#: control/ada_info.php:35
+#@ wp-ada
+msgid "Colors - Animal colors. Example: White, Black, etc"
+msgstr "Cores - Cores de animais. Ex.: Branco, Preto etc"
+
+#: control/ada_info.php:36
+#@ wp-ada
+msgid "Status - Animal status. Example: Adopt, Adopted, Found, Lost, Deceased etc"
+msgstr "Status - O status do animal. Ex.: Adote, Adotado, Encontrado, Perdido, Falecido etc."
+
+#: control/ada_info.php:37
+#@ wp-ada
+msgid "State - Animal location. Example: IL, TX etc"
+msgstr "Estado - A localidade do animal. Ex.: SP, RJ, RS, MG etc"
+
+#: control/ada_info.php:40
+#@ wp-ada
+msgid "Post Type"
+msgstr "Tipo de Post"
+
+#: control/ada_info.php:42
+#@ wp-ada
+msgid "Single post:"
+msgstr "Post único:"
+
+#: control/ada_info.php:43
+#@ wp-ada
+msgid "Listing all pets:"
+msgstr "Listando todos os animais:"
+
+#: control/ada_info.php:46
+#@ wp-ada
+msgid "Metadatas"
+msgstr "Metadados"
+
+#: control/ada_info.php:47
+#@ wp-ada
+msgid "Information like age, breed, size etc are stored as metadatas. Please, refer to following file:"
+msgstr "Informações como data, raça, porte etc são armazenados como metadados. Consulte o arquivo:"
+
+#: control/ada_info.php:51
+#@ wp-ada
+msgid "Here are some examples you can implement:"
+msgstr "Aqui estão alguns de exemplos de implementação:"
+
+#: control/ada_info.php:54
+#@ wp-ada
+msgid "all pets"
+msgstr "todos os animais"
+
+#: control/ada_info.php:55
+#@ wp-ada
+msgid "only found status"
+msgstr "apenas com status de <code>found</code>"
+
+#: control/ada_info.php:56
+#@ wp-ada
+msgid "only dogs"
+msgstr "apenas <code>dogs</code>"
+
+#: control/ada_info.php:57
+#@ wp-ada
+msgid "only dogs with found status"
+msgstr "apenas<code>dogs</code> com status de <code>found</code>"
+
+#: control/ada_info.php:63
+#@ wp-ada
+msgid "How to Display"
+msgstr "Como exibir"
+
+#: control/ada_info.php:64
+#@ wp-ada
+msgid "ADA Plugin works with any theme, just add the code in your single post context file or create a template file for you theme (refer to the previous section)."
+msgstr "O plugin ADA funciona com qualquer tema, apenas adicione o seguinte código no arquivo de contexto para post único ou crie um arquivo de tema (consulte a seção anterior)."
+
+#: control/ada_info.php:65
+#@ wp-ada
+msgid "Add the following code in <code>single.php</code>, <code>archive.php</code> files etc anywhere inside the loop. The beste place is after <code>the_title</code>"
+msgstr "Adicione o código em  <code>single.php</code>, <code>archive.php</code> em qualquer lugar dentro do loop. O lugar mais indicado é após <code>the_title</code>"
+
+#: control/ada_info.php:67
+#@ wp-ada
+msgid "This code will get the pet thumbnail and special info. Also, will show differently in single and archive contexts. Bellow, where to insert the code in default themes:"
+msgstr "Este código vai obter a miniatura e também as informações especiais. Também, aparece de modo diferenciado em página únicas e página de arquivo. Abaixo, veja onde inserir o código nos temas padrões:"
+
+#: control/ada_info.php:71
+#: control/ada_info.php:72
+#: control/ada_info.php:77
+#: control/ada_info.php:78
+#@ default
+msgid "Line:"
+msgstr ""
+
+#: control/ada_info.php:81
+#@ default
+msgid "Widgets"
+msgstr ""
+
+#: control/ada_info.php:82
+#@ wp-ada
+msgid "Add <a href=\"widgets.php\">ADA Widgets</a> and display random pets for adoption, lost pets, pets search form and pet color tagcloud."
+msgstr "Adicione qualquer <a href=\"widgets.php\">ADA Widget</a> para mostrar animais aleatoriamente, animais perdidos e achados, nuvem de tag de cores e um formulário de procura."
+
+#: control/ada_info.php:84
+#@ default
+msgid "Menu Itens"
+msgstr ""
+
+#: control/ada_info.php:86
+#@ wp-ada
+msgid "Add statuses, animal categories and more as <a href=\"nav-menus.php\">Menus</a> itens."
+msgstr "Adicione status, categorias de animais e outros como itens de <a href=\"nav-menus.php\">Menus</a>."
+
+#: control/ada_info.php:87
+#@ wp-ada
+msgid "For list all pets, add an URL as menu item in accordance with your permalink structure:"
+msgstr "Para listar todos os animais, adicione uma URL como item de menu de acordo com sua estrutura de links:"
+
+#: control/ada_info.php:91
+#@ default
+msgid "Default"
+msgstr ""
+
+#: control/ada_info.php:92
+#@ default
+msgid "Custom Structure"
+msgstr ""
+
+#: control/ada_info.php:96
+#@ default
+msgid "Submission Form"
+msgstr ""
+
+#: control/ada_info.php:97
+#@ wp-ada
+msgid "Now you can let registered users submit pet posts directly in your site. This form handles the same info as in ADA panel and also must be reviewed by an Admin/Editor before going online."
+msgstr "Agora você pode permitir que usuários registrados adicionem posts ao seu site. Este formulário é o mesmo que aparece no painel, além de que cada post deverá ser aprovado antes da publicação."
+
+#: control/ada_info.php:98
+#@ wp-ada
+msgid "How to set the form:"
+msgstr "Como inserir o formulário:"
+
+#: control/ada_info.php:101
+#@ wp-ada
+msgid "Create a <a href=\"post-new.php?post_type=page\">Page</a> or <a href=\"post-new.php?post_type=post\">Post</a>."
+msgstr "Crie uma <a href=\"post-new.php?post_type=page\">Página</a> ou <a href=\"post-new.php?post_type=post\">Post</a>."
+
+#: control/ada_info.php:102
+#@ wp-ada
+msgid "Place the shortcode"
+msgstr "Adicione o shortcode"
+
+#: control/ada_info.php:105
+#@ wp-ada
+msgid "<strong>Notes:</strong> the form always stay <strong>before</strong> the post or page content, no matter if you add the shortcode after or between some text, so is better to let only the shortcode in content."
+msgstr "<strong>Notas:</strong> o formulário sempre aparece antes do conteúdo da página ou post, não importando onde o shortcode tenha sido inserido, por isso, é recomendado criar uma página com apenas o shortcode."
+
+#: control/ada_info.php:106
+#@ wp-ada
+msgid "A safer and good pratice is not to link the form page directly, but through another page, i.e. Agreement Policies etc."
+msgstr "É seguro e adequado não criar links diretos para o formulário, mas sim através de outra página, por exemplo, Termos de Aceitação etc."
+
+#: control/ada_info.php:107
+#@ wp-ada
+msgid "Also consider using specific plugins for handle post creation and forms in order to get special features! This is quite a basic form only!"
+msgstr "Também considere usar plugins mais específicos para criação de posts e formulários! Este é um formulário simples apenas!"
+
+#: control/ada_info.php:110
+#@ default
+msgid "Styling"
+msgstr ""
+
+#: control/ada_info.php:111
+#@ wp-ada
+msgid "You can change how widgets and special info look on you theme by editing ADA stylesheet"
+msgstr "Mude como os Widgets ADA e informações especiais aparecem em seu tema, é só editar a folha de estilos:"
+
+#: control/ada_info.php:112
+#@ wp-ada
+msgid "Also, all images are in this folder:"
+msgstr "Além disso, pode modificar todas as imagens que são usadas e ficam nesta pasta:"
+
+#: control/ada_info.php:115
+#@ wp-ada
+msgid "Support & Contact"
+msgstr "Suporte & Contato"
+
+#: control/ada_info.php:116
+#@ wp-ada
+msgid "Let me know what you have done! I will love to know how your site is using this plugin. Send me a <a href=\"mailto:dianakac@gmail.com?subject=About ADA Plugin\">e-mail</a> anytime. You can also reach me at my <a href=\"http://arquivo.tk\" _target=\"_blank\" >website</a>"
+msgstr "Como tem usado este plugin? Envie-me um <a href=\"mailto:dianakac@gmail.com?subject=Sobre o plugin ADA\">e-mail</a> a qualquer hora. Você também pode me encontrar no meu <a href=\"http://arquivo.tk\" _target=\"_blank\" >website</a>"
+
+#: control/ada_info.php:118
+#@ wp-ada
+msgid "If I saved you sometime, consider make a donation."
+msgstr "Se lhe poupei algum tempo, considere fazer um donativo."
+
+#: control/ada_info.php:127
+#@ wp-ada
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr "PayPal - O modo mais seguro e fácil de pagar online!"
+
+#: control/ada_info.php:131
+#@ wp-ada
+msgid "Translation"
+msgstr "Tradução"
+
+#: control/ada_info.php:132
+#@ wp-ada
+msgid "This translation to"
+msgstr "Esta tradução para"
+
+#: control/ada_info.php:132
+#@ wp-ada
+msgid "was made by <a href=\"mailto:dianakac@gmail.com?subject=ADA Plugin Translation\">Diana K. Cury</a>"
+msgstr "foi feita por <a href=\"mailto:dianakac@gmail.com?subject=Tradução do ADA\">Diana K. Cury</a>"
+
+#: control/ada_info.php:134
+#@ wp-ada
+msgid "Disclaimer"
+msgstr "Isenção"
+
+#: control/ada_info.php:135
+#@ wp-ada
+msgid "ADA Plugin is a free plugin but I discourage pet shops for using it and I will not provide support for such. Also, I want you ask you never buy animals as a pet. There are plenty of animals in shelters you can adopt. Stop keeping this obsolete market alive."
+msgstr "O plugin ADA é gratuito mas seu uso por lojas de animais (petshops) é desencorajado e não será provido nenhum suporte de minha parte a tais usuários. Quero fazer um apelo: não compre animais como animais de estimação. Há muitos animais abandonados nos abrigos que você pode adotar. Vamos parar de manter este mercado obsoleto."
+
+#: control/ada_options.php:4
+#@ wp-ada
+msgid "ADA Plugin Options"
+msgstr "ADA Opções"
+
+#: control/contextual.php:32
+#@ wp-ada
+msgid "ADA Plugin Help"
+msgstr "ADA Ajuda"
+
+#: control/contextual.php:33
+#@ wp-ada
+msgid "In this screen, add a pet available for adoption, lost, found pet etc. All pets stores individual data such breed, colors, size and more."
+msgstr "Nesta tela, adicione um animal para adoção, encontrado desaparecido etc. Todos os animais armazenam informações individualmente como raça, cores, porte e mais."
+
+#: control/contextual.php:35
+#: control/form.php:14
+#@ wp-ada
+msgid "Post Title - fill with the animal name"
+msgstr "Título do Post - preencha com o nome do animal"
+
+#: control/contextual.php:36
+#: control/form.php:17
+#@ wp-ada
+msgid "Text Area - Add extended info, pictures, videos, links anything else about the animal."
+msgstr "Área de Texto - Adicione informações extras, fotos, vídeos, links, o que quiser, sobre o animal."
+
+#: control/contextual.php:38
+#@ wp-ada
+msgid "Also, you can find some boxes that handle special informations:"
+msgstr "Aqui também estão algumas caixas que retém informações especiais:"
+
+#: control/contextual.php:40
+#: control/form.php:11
+#@ wp-ada
+msgid "<strong>Animal Informations</strong> - most important informations about a pet. Here you inform the type, status, size etc."
+msgstr "<strong>Informações do Animal</strong> -as informações mais importantes sobre um animal. Aqui você informa o tipo, status, porte etc."
+
+#: control/contextual.php:41
+#: control/form.php:111
+#@ wp-ada
+msgid "<strong>Contact Information</strong> - if you run a site not involved in the process, you must inform where visitors should ask about this pet."
+msgstr "<strong>Informações de Contato</strong> - Se você gerencia um site mas não participa do processo, informe os visitantes quem eles devem procurar."
+
+#: control/contextual.php:42
+#@ wp-ada
+msgid "<strong>Pet Control</strong> - helps keeping a side control and also stores process fee, if any."
+msgstr "<strong>Controle</strong> -ajuda a manter um controle em paralelo e também armazena a taxa de processo, se existir."
+
+#: control/contextual.php:43
+#: control/form.php:93
+#@ wp-ada
+msgid "<strong>Lost & Found</strong> - questions regarding lost and found pets."
+msgstr "<strong>Achados & Perdidos</strong> - questões a respeito de animais achados e perdidos."
+
+#: control/contextual.php:45
+#@ wp-ada
+msgid "<strong>Note on roles and capabilities:</strong> some features such add new pet types, states etc are restrict to Authors and Administrators."
+msgstr "<strong>Nota sobre funções e papéis:</strong>alguns recursos como adicionar novos tipos de animais, estados etc são restritos a Autores e Administradores."
+
+#: control/contextual.php:46
+#@ wp-ada
+msgid "More Help with ADA plugin:"
+msgstr "Mais ajuda com o plugin ADA:"
+
+#: control/contextual.php:47
+#@ wp-ada
+msgid "<a href=\"http://arquivo.tk/dev/ada\" target=\"_blank\">ADA Plugin site</a>"
+msgstr "<a href=\"http://arquivo.tk/wordpress/dev/ada\" target=\"_blank\">Site do Plugin ADA</a>"
+
+#: control/form.php:10
+#: metabox/meta-box-info.php:7
+#@ wp-ada
+msgid "Animal Informations"
+msgstr "Informações do Animal"
+
+#: control/form.php:15
+#@ wp-ada
+msgid "Your pet's name..."
+msgstr "Nome do animal..."
+
+#: control/form.php:20
+#: metabox/meta-box-info.php:15
+#@ wp-ada
+msgid "Type"
+msgstr "Tipo"
+
+#: control/form.php:23
+#: creation/data_pet.php:103
+#: creation/pet_post_type.php:116
+#: metabox/meta-box-info.php:27
+#@ wp-ada
+msgid "Status"
+msgstr "Status"
+
+#: control/form.php:31
+#: control/widgets.php:146
+#: creation/data_pet.php:60
+#: metabox/meta-box-info.php:39
+#@ wp-ada
+msgid "Gender"
+msgstr "Gênero"
+
+#: control/form.php:32
+#: metabox/meta-box-info.php:43
+#@ wp-ada
+msgid "Male"
+msgstr "Macho"
+
+#: control/form.php:33
+#: metabox/meta-box-info.php:44
+#@ wp-ada
+msgid "Female"
+msgstr "Fêmea"
+
+#: control/form.php:34
+#: metabox/meta-box-info.php:45
+#@ wp-ada
+msgid "Various"
+msgstr "Vários"
+
+#: control/form.php:36
+#: creation/data_pet.php:61
+#: metabox/meta-box-info.php:58
+#@ wp-ada
+msgid "Age"
+msgstr "Idade"
+
+#: control/form.php:38
+#: metabox/meta-box-info.php:62
+#@ wp-ada
+msgid "Baby (Under 1 year)"
+msgstr "Filhote (Menos de 1 ano)"
+
+#: control/form.php:39
+#: metabox/meta-box-info.php:63
+#@ wp-ada
+msgid "Adult (2 to 9 years)"
+msgstr "Adutol (2 a 9 anos)"
+
+#: control/form.php:40
+#: metabox/meta-box-info.php:64
+#@ wp-ada
+msgid "Senior (More than 10 years)"
+msgstr "Idoso (Mais de 10 anos)"
+
+#: control/form.php:43
+#: creation/data_pet.php:58
+#: metabox/meta-box-info.php:68
+#@ wp-ada
+msgid "Breed(s)"
+msgstr "Raça(s)"
+
+#: control/form.php:45
+#: metabox/meta-box-info.php:69
+#@ wp-ada
+msgid "One or more breeds separated by commas. Example: Poodle, Unknown"
+msgstr "Uma ou mais raças separadas por vírgulas. Por exemplo: Poodle, Desconhecido"
+
+#: control/form.php:47
+#: creation/data_pet.php:65
+#: metabox/meta-box-info.php:74
+#@ wp-ada
+msgid "Vaccines"
+msgstr "Vacinas"
+
+#: control/form.php:48
+#: control/form.php:65
+#: metabox/meta-box-info.php:78
+#: metabox/meta-box-info.php:102
+#@ wp-ada
+msgid "None"
+msgstr "Nenhuma"
+
+#: control/form.php:49
+#: metabox/meta-box-info.php:79
+#@ wp-ada
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: control/form.php:50
+#: metabox/meta-box-info.php:80
+#@ wp-ada
+msgid "Vaccinated"
+msgstr "Vacinado"
+
+#: control/form.php:51
+#: metabox/meta-box-info.php:81
+#@ wp-ada
+msgid "Dose Interval"
+msgstr "Intervalos de Doses"
+
+#: control/form.php:53
+#: creation/data_pet.php:59
+#: metabox/meta-box-info.php:85
+#@ wp-ada
+msgid "Size"
+msgstr "Tamanho"
+
+#: control/form.php:55
+#: metabox/meta-box-info.php:89
+#@ wp-ada
+msgid "Newborn (Imprecise)"
+msgstr "Recém-nascido (Impreciso)"
+
+#: control/form.php:56
+#: metabox/meta-box-info.php:90
+#@ wp-ada
+msgid "Mini"
+msgstr "Mini"
+
+#: control/form.php:57
+#: metabox/meta-box-info.php:91
+#@ wp-ada
+msgid "Small"
+msgstr "Pequeno"
+
+#: control/form.php:58
+#: metabox/meta-box-info.php:92
+#: metabox/meta-box-info.php:104
+#@ wp-ada
+msgid "Medium"
+msgstr "Médio"
+
+#: control/form.php:59
+#: metabox/meta-box-info.php:93
+#@ wp-ada
+msgid "Large"
+msgstr "Grande"
+
+#: control/form.php:60
+#: metabox/meta-box-info.php:94
+#@ wp-ada
+msgid "Huge"
+msgstr "Gigante"
+
+#: control/form.php:63
+#: creation/data_pet.php:66
+#: metabox/meta-box-info.php:98
+#@ wp-ada
+msgid "Hair"
+msgstr "Pelagem"
+
+#: control/form.php:66
+#: metabox/meta-box-info.php:103
+#@ wp-ada
+msgid "Short"
+msgstr "Curta"
+
+#: control/form.php:67
+#: metabox/meta-box-info.php:105
+#@ wp-ada
+msgid "Long"
+msgstr "Longa"
+
+#: control/form.php:68
+#: metabox/meta-box-info.php:106
+#@ wp-ada
+msgid "Mixed"
+msgstr "Mista"
+
+#: control/form.php:71
+#: creation/data_pet.php:68
+#: metabox/meta-box-info.php:110
+#@ wp-ada
+msgid "Pattern"
+msgstr "Padrão"
+
+#: control/form.php:73
+#: metabox/meta-box-info.php:114
+#@ wp-ada
+msgid "Solid"
+msgstr "Sólido"
+
+#: control/form.php:74
+#: metabox/meta-box-info.php:115
+#@ wp-ada
+msgid "Brindle"
+msgstr "Malhado"
+
+#: control/form.php:75
+#: metabox/meta-box-info.php:116
+#@ wp-ada
+msgid "Patches"
+msgstr "Manchas"
+
+#: control/form.php:76
+#: metabox/meta-box-info.php:117
+#@ wp-ada
+msgid "Spotted"
+msgstr "Pintas"
+
+#: control/form.php:79
+#: creation/data_pet.php:67
+#: creation/pet_post_type.php:81
+#@ wp-ada
+msgid "Colors"
+msgstr "Cores"
+
+#: control/form.php:85
+#: metabox/meta-box-info.php:135
+#@ wp-ada
+msgid "Notes (optional)"
+msgstr "Notas (Opcionais)"
+
+#: control/form.php:87
+#: metabox/meta-box-info.php:136
+#@ wp-ada
+msgid "Physical conditions, aspects or any other info"
+msgstr "Condições físicas, aspectos e outras informações"
+
+#: control/form.php:92
+#: metabox/meta-box-lost.php:7
+#@ wp-ada
+msgid "Lost & Found"
+msgstr "Achados & Perdidos"
+
+#: control/form.php:95
+#: metabox/meta-box-lost.php:15
+#@ wp-ada
+msgid "Date"
+msgstr "Data"
+
+#: control/form.php:97
+#: metabox/meta-box-lost.php:16
+#@ wp-ada
+msgid "Example:  01/05/2011"
+msgstr "Ex.: 01/05/2011"
+
+#: control/form.php:99
+#: metabox/meta-box-lost.php:21
+#@ wp-ada
+msgid "Time"
+msgstr "Hora"
+
+#: control/form.php:101
+#: metabox/meta-box-lost.php:22
+#@ wp-ada
+msgid "Example:  11:29 pm"
+msgstr "Ex.: 12:25"
+
+#: control/form.php:103
+#: metabox/meta-box-lost.php:28
+#@ wp-ada
+msgid "Place"
+msgstr "Lugar"
+
+#: control/form.php:105
+#: metabox/meta-box-lost.php:29
+#@ wp-ada
+msgid "Example: Lincoln Park"
+msgstr "Ex.: Parque da Aclimação"
+
+#: control/form.php:110
+#: control/form.php:113
+#: metabox/meta-box-contact.php:7
+#: metabox/meta-box-contact.php:15
+#@ wp-ada
+msgid "Contact Information"
+msgstr "Informações para Contato"
+
+#: control/form.php:116
+#: metabox/meta-box-contact.php:20
+#@ wp-ada
+msgid "E-mail"
+msgstr "Email"
+
+#: control/form.php:119
+#: metabox/meta-box-contact.php:38
+#@ wp-ada
+msgid "City"
+msgstr "Cidade"
+
+#: control/form.php:122
+#: metabox/meta-box-contact.php:26
+#@ wp-ada
+msgid "State"
+msgstr "Estado"
+
+#: control/form.php:133
+#: metabox/meta-box-contact.php:23
+#@ wp-ada
+msgid "<strong>Warning:</strong> All These informations will be visible in the website. Be careful sharing personal information such e-mails and addresses."
+msgstr "<strong>Atenção:</strong> Todas essas informações ficarão visíveis no website. Tenha cuidado ao compartilhar informações como endereços e emails."
+
+#: control/form.php:134
+#@ default
+msgid "Submit"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: control/pages.php:8
+#: wp-ada.php:0
+#@ wp-ada
+msgid "ADA"
+msgstr "ADA"
+
+#: control/widgets.php:7
+#@ wp-ada
+msgid "Display a pet color tagcloud"
+msgstr "Mostre uma nuvem tag de cores de animais."
+
+#: control/widgets.php:8
+#@ wp-ada
+msgid "ADA Color Tagcloud"
+msgstr "ADA Nuvem Tag Cores"
+
+#: control/widgets.php:17
+#@ wp-ada
+msgid "Pet colors tagcloud"
+msgstr "Nuvem tag de cores"
+
+#: control/widgets.php:41
+#: control/widgets.php:103
+#: control/widgets.php:201
+#@ default
+msgid "Title"
+msgstr ""
+
+#: control/widgets.php:53
+#@ wp-ada
+msgid "Display a pet searchform"
+msgstr "Mostre um formulário de pesquisa para animais"
+
+#: control/widgets.php:54
+#: control/widgets.php:63
+#@ wp-ada
+msgid "ADA Search Form"
+msgstr "ADA Formulário de Pesquisa"
+
+#: control/widgets.php:90
+#@ wp-ada
+msgid "Go"
+msgstr "Ok"
+
+#: control/widgets.php:116
+#@ wp-ada
+msgid "ADA Pets"
+msgstr "ADA Animais"
+
+#: control/widgets.php:116
+#@ wp-ada
+msgctxt "widget pet"
+msgid "Display pets for adoption"
+msgstr "Mostre animais para adoção"
+
+#: control/widgets.php:138
+#@ default
+msgid "RSS"
+msgstr ""
+
+#: control/widgets.php:145
+#: creation/data_pet.php:57
+#: creation/data_pet.php:102
+#@ wp-ada
+msgid "In"
+msgstr "em"
+
+#: control/widgets.php:151
+#@ wp-ada
+msgid "Read about"
+msgstr "Saiba +"
+
+#: control/widgets.php:205
+#@ default
+msgid "Arbitrary text or HTML"
+msgstr ""
+
+#: control/widgets.php:209
+#@ default
+msgid "How many items would you like to display?"
+msgstr ""
+
+#: control/widgets.php:220
+#@ default
+msgid "Sort by:"
+msgstr ""
+
+#: control/widgets.php:222
+#@ wp-ada
+msgid "Post title"
+msgstr "Título do Post"
+
+#: control/widgets.php:223
+#@ wp-ada
+msgid "Post data"
+msgstr "Data do Post"
+
+#: control/widgets.php:224
+#@ wp-ada
+msgid "Post author"
+msgstr "Autor do Post"
+
+#: control/widgets.php:225
+#@ wp-ada
+msgid "Post ID"
+msgstr "ID do Post"
+
+#: control/widgets.php:226
+#@ default
+msgid "Random"
+msgstr ""
+
+#: control/widgets.php:227
+#@ wp-ada
+msgid "Modified date"
+msgstr "Data de Modificado"
+
+#: control/widgets.php:228
+#@ wp-ada
+msgid "Popularity"
+msgstr "Popularidade"
+
+#: control/widgets.php:233
+#@ default
+msgid "Category"
+msgstr ""
+
+#: control/widgets.php:235
+#: control/widgets.php:247
+#@ wp-ada
+msgid "All"
+msgstr "Tudo"
+
+#: control/widgets.php:245
+#@ wp-ada
+msgid "Pet Status"
+msgstr "Status do Animal"
+
+#: control/widgets.php:259
+#@ wp-ada
+msgid "Show RSS link"
+msgstr "Mostrar link RSS"
+
+#: creation/data_pet.php:5
+#@ wp-ada
+msgid "This pet post is still awaiting moderation, though you can add more information, edit or delete it."
+msgstr "Este post sobre um animal ainda aguarda moderação, mas você pode adicionar e modificar informações ou excluí-lo."
+
+#: creation/data_pet.php:6
+#@ wp-ada
+msgid "Edit this pet &raquo;"
+msgstr "Editar este post &raquo; "
+
+#: creation/data_pet.php:12
+#: creation/data_pet.php:39
+#: creation/data_pet.php:40
+#: creation/data_pet.php:78
+#: creation/pet_post_type.php:120
+#@ wp-ada
+msgid "Adopted"
+msgstr "Adotado"
+
+#: creation/data_pet.php:16
+#: creation/data_pet.php:36
+#: creation/data_pet.php:37
+#: creation/data_pet.php:82
+#: creation/data_pet.php:111
+#: creation/pet_post_type.php:119
+#@ wp-ada
+msgid "Adopt"
+msgstr "Adote"
+
+#: creation/data_pet.php:20
+#: creation/data_pet.php:42
+#: creation/data_pet.php:43
+#: creation/data_pet.php:86
+#: creation/data_pet.php:138
+#: creation/pet_post_type.php:122
+#@ wp-ada
+msgid "Found"
+msgstr "Encontrado"
+
+#: creation/data_pet.php:24
+#: creation/data_pet.php:45
+#: creation/data_pet.php:46
+#: creation/data_pet.php:90
+#: creation/data_pet.php:125
+#: creation/pet_post_type.php:121
+#@ wp-ada
+msgid "Lost"
+msgstr "Perdido"
+
+#: creation/data_pet.php:28
+#: creation/data_pet.php:48
+#: creation/data_pet.php:49
+#: creation/data_pet.php:94
+#: creation/pet_post_type.php:123
+#@ wp-ada
+msgid "Solved"
+msgstr "Resolvido"
+
+#: creation/data_pet.php:69
+#: creation/data_pet.php:104
+#@ wp-ada
+msgid "Added"
+msgstr "Adicionado"
+
+#: creation/data_pet.php:70
+#: creation/data_pet.php:105
+#@ wp-ada
+msgid "Updated"
+msgstr "Atualizado"
+
+#: creation/data_pet.php:112
+#@ wp-ada
+msgid "Notes & Info"
+msgstr "Notas & Informações"
+
+#: creation/data_pet.php:113
+#@ wp-ada
+msgid "Fee"
+msgstr "Taxa"
+
+#: creation/data_pet.php:114
+#@ wp-ada
+msgid "Local"
+msgstr "Local"
+
+#: creation/data_pet.php:118
+#: creation/data_pet.php:133
+#: creation/data_pet.php:147
+#@ wp-ada
+msgid "Contacts"
+msgstr "Contatos"
+
+#: creation/data_pet.php:119
+#@ wp-ada
+msgctxt "e-mail subject"
+msgid "I want adopt"
+msgstr "Quero adotar"
+
+#: creation/data_pet.php:119
+#: creation/data_pet.php:134
+#: creation/data_pet.php:150
+#@ wp-ada
+msgid "Contact by e-mail"
+msgstr "Contato por Email"
+
+#: creation/data_pet.php:127
+#: creation/data_pet.php:140
+#@ wp-ada
+msgid "Last place and time"
+msgstr "Último Local e Hora"
+
+#: creation/data_pet.php:134
+#: creation/data_pet.php:150
+#@ wp-ada
+msgctxt "e-mail subject"
+msgid "Pet found"
+msgstr "Animal Encontrado"
+
+#: creation/pet_post_type.php:15
+#@ wp-ada
+msgid "Pets"
+msgstr "Animais"
+
+#: creation/pet_post_type.php:16
+#@ wp-ada
+msgctxt "post type singular name"
+msgid "Pet"
+msgstr "Animal"
+
+#: creation/pet_post_type.php:17
+#: creation/pet_post_type.php:18
+#@ wp-ada
+msgid "Add Pet"
+msgstr "Adicionar Animal"
+
+#: creation/pet_post_type.php:19
+#@ wp-ada
+msgid "Edit Pet"
+msgstr "Editar Animal"
+
+#: creation/pet_post_type.php:20
+#@ wp-ada
+msgid "New Pet"
+msgstr "Novo Animal"
+
+#: creation/pet_post_type.php:21
+#@ wp-ada
+msgid "View Pets"
+msgstr "Ver Animais"
+
+#: creation/pet_post_type.php:22
+#@ wp-ada
+msgid "Search Pets"
+msgstr "Pesquisar Animais"
+
+#: creation/pet_post_type.php:23
+#@ wp-ada
+msgid "Not Found!"
+msgstr "Nada Encontrado!"
+
+#: creation/pet_post_type.php:24
+#@ wp-ada
+msgid "Nothing found in Trash"
+msgstr "Nada na Lixeira"
+
+#: creation/pet_post_type.php:49
+#@ wp-ada
+msgctxt "taxonomy general name"
+msgid "Pet Types"
+msgstr "Tipos de Animais"
+
+#: creation/pet_post_type.php:50
+#@ wp-ada
+msgctxt "taxonomy singular name"
+msgid "Type"
+msgstr "Tipos"
+
+#: creation/pet_post_type.php:51
+#@ wp-ada
+msgid "Search Types"
+msgstr "Pesquisar Tipos"
+
+#: creation/pet_post_type.php:52
+#@ wp-ada
+msgid "All Types"
+msgstr "Todos os Tipos"
+
+#: creation/pet_post_type.php:53
+#@ wp-ada
+msgid "Edit Type"
+msgstr "Editar Tipo"
+
+#: creation/pet_post_type.php:54
+#@ wp-ada
+msgid "Update Type"
+msgstr "Atualizar Tipo"
+
+#: creation/pet_post_type.php:55
+#@ wp-ada
+msgid "Add New Type"
+msgstr "Adicionar Tipo"
+
+#: creation/pet_post_type.php:56
+#@ wp-ada
+msgid "New Type Name"
+msgstr "Novo Tipo"
+
+#: creation/pet_post_type.php:57
+#@ wp-ada
+msgid "Types"
+msgstr "Tipos"
+
+#: creation/pet_post_type.php:73
+#@ wp-ada
+msgctxt "pet colors title"
+msgid "Pet Colors"
+msgstr "Cores de Animais"
+
+#: creation/pet_post_type.php:74
+#@ wp-ada
+msgctxt "taxonomy singular name"
+msgid "Color"
+msgstr "Cor"
+
+#: creation/pet_post_type.php:75
+#@ wp-ada
+msgid "Search Colors"
+msgstr "Pesquisar Cores"
+
+#: creation/pet_post_type.php:76
+#@ wp-ada
+msgid "All Colors"
+msgstr "Todas as Cores"
+
+#: creation/pet_post_type.php:77
+#@ wp-ada
+msgid "Edit Color"
+msgstr "Editar COr"
+
+#: creation/pet_post_type.php:78
+#@ wp-ada
+msgid "Update Color"
+msgstr "Atualizar Cor"
+
+#: creation/pet_post_type.php:79
+#: metabox/class-advanced-meta-box.php:475
+#@ wp-ada
+msgid "Add New Color"
+msgstr "Adicionar Cor"
+
+#: creation/pet_post_type.php:80
+#@ wp-ada
+msgid "New Color Name"
+msgstr "Nova Cor"
+
+#: creation/pet_post_type.php:96
+#@ wp-ada
+msgctxt "pet place"
+msgid "State"
+msgstr "Estado"
+
+#: creation/pet_post_type.php:97
+#@ wp-ada
+msgctxt "taxonomy singular name"
+msgid "State"
+msgstr "Estado"
+
+#: creation/pet_post_type.php:98
+#@ wp-ada
+msgid "States"
+msgstr "Estados"
+
+#: creation/pet_post_type.php:116
+#@ wp-ada
+msgctxt "pet status title"
+msgid "Pet Status"
+msgstr "Status"
+
+#: metabox/class-advanced-meta-box.php:167
+#: metabox/class-advanced-meta-box.php:388
+#: metabox/meta-box.php:105
+#: metabox/meta-box.php:339
+#@ default
+msgid "Delete this image"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:167
+#: metabox/class-advanced-meta-box.php:345
+#: metabox/class-advanced-meta-box.php:388
+#: metabox/meta-box.php:105
+#: metabox/meta-box.php:296
+#: metabox/meta-box.php:339
+#@ default
+msgid "Delete"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:216
+#@ default
+msgid "Update"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:217
+#@ default
+msgid "Clear"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:341
+#: metabox/meta-box.php:292
+#@ default
+msgid "Uploaded files"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:351
+#: metabox/meta-box.php:302
+#@ default
+msgid "Upload new files"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:354
+#: metabox/meta-box.php:305
+#@ default
+msgid "Add more file"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:395
+#: metabox/meta-box.php:345
+#@ default
+msgid "Add more images"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:402
+#: metabox/meta-box.php:352
+#@ default
+msgid "Select a color"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:465
+#@ default
+msgid "Name"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:472
+#@ default
+msgid "Add"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:473
+#@ default
+msgid "Cancel"
+msgstr ""
+
+#: metabox/class-advanced-meta-box.php:745
+#@ default
+msgid "Updated."
+msgstr ""
+
+#: metabox/meta-box-extra.php:7
+#@ wp-ada
+msgid "Pet Control"
+msgstr "Controle"
+
+#: metabox/meta-box-extra.php:15
+#@ wp-ada
+msgid "Reference No."
+msgstr "No. de Referência"
+
+#: metabox/meta-box-extra.php:16
+#@ wp-ada
+msgid "Reference or code for control"
+msgstr "Referência ou código de controle"
+
+#: metabox/meta-box-extra.php:21
+#@ wp-ada
+msgid "Fee $"
+msgstr "Taxa R$"
+
+#: metabox/meta-box-extra.php:22
+#@ wp-ada
+msgid "Example: 12,00"
+msgstr "Ex.: 12,00"
+
+#: metabox/meta-box-info.php:49
+#@ wp-ada
+msgid "Spayed/Neutered"
+msgstr "Esterilizado/Castrado"
+
+#: metabox/meta-box-info.php:53
+#@ wp-ada
+msgid "Yes"
+msgstr "Sim"
+
+#: metabox/meta-box-info.php:54
+#@ wp-ada
+msgid "No"
+msgstr "Não"
+
+#: metabox/meta-box-info.php:121
+#@ wp-ada
+msgid "Color"
+msgstr "Cor"
+
+#. translators: plugin header field 'PluginURI'
+#: wp-ada.php:0
+#@ wp-ada
+msgid "http://arquivo.tk/dev/ada"
+msgstr "http://arquivo.tk/wordpress/dev/ada"
+
+#. translators: plugin header field 'Description'
+#: wp-ada.php:0
+#@ wp-ada
+msgid "ADA (Adopting Animals) offers a neat and easy way to keep pets for adoptions or lost pets database with special info for every pet."
+msgstr "O plugin ADA oferece um modo organizado e fácil de manter um banco como informações específicas para cada animal."
+
+#. translators: plugin header field 'Author'
+#: wp-ada.php:0
+#@ wp-ada
+msgid "Diana K. Cury"
+msgstr "Diana K. Cury"
+
+#. translators: plugin header field 'AuthorURI'
+#: wp-ada.php:0
+#@ wp-ada
+msgid "http://arquivo.tk"
+msgstr "http://arquivo.tk"
+
+#. translators: plugin header field 'Version'
+#: wp-ada.php:0
+#@ wp-ada
+msgid "1.7"
+msgstr "1.7"
+
